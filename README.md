@@ -2,20 +2,11 @@
 
 <h1 align="center">404-NOT-FOUND</h1>
 
-
-
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
+    This web page is hosted
+    <a href="https://nitin-rawat01.github.io/404-not-Found/">
+      here!
     </a>
   </h3>
 </div>
