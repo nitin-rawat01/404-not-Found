@@ -25,10 +25,10 @@
 
 ## Overview
 ## 404-Not-Found display page
-
+## Desktop View
 ![screenshot404](https://github.com/user-attachments/assets/3a71749e-5469-4620-979e-f80889de0f47)
-
-
+##  Mobile View
+![mobileview](https://github.com/user-attachments/assets/a7eee110-9cf5-46fe-ab57-ad519b4af020)
 
 ### Built With
 
